@@ -1,6 +1,6 @@
 
 
-This is my first firebase/react exercise .It is video tutorial from Tech Arefin youtube channel. You can check final site here: https://react-exercises-todo-firebase.netlify.app/ . I edited some coding and styling.
+This is my first firebase/react exercise .It is video tutorial from Tech Arefin youtube channel.I edited some coding and styling. You can check final site here: https://react-exercises-todo-firebase.netlify.app/ . 
 
 
 # Getting Started with Create React App
