@@ -1,3 +1,8 @@
+
+
+This is my firebase/react exercise .It is video tutorial from Tech Arefin youtube channel. You can check final site here: https://react-exercises-todo-firebase.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
