@@ -1,4 +1,5 @@
 import Title from './components/Title';
+import AddTodo from './components/AddTodo';
 import './App.css';
 
 function App() {
@@ -6,6 +7,9 @@ function App() {
     <div className="App">
       <div>
         <Title />
+      </div>
+      <div>
+        <AddTodo />
       </div>
 
     </div>
