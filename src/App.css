@@ -75,7 +75,7 @@ form input {
   font-weight: 500;
 }
 .input_container {
-  margin-bottom:15px;
+  /* margin-bottom:10px; */
   height: 30px;
   margin-right: 15px;
 }
@@ -98,7 +98,7 @@ form input {
 }
 
 .todo_container {
-  width: 50%;
+  width: 40%;
   margin: 0 auto;
 }
 .todo {
@@ -135,15 +135,15 @@ form input {
   font-size: 35px;
 }
 .button-complete {
-  color: #15e731;
+  color: #15e770;
   margin-right: 10px;
 }
 .button-edit {
-  color: #56cfff;
+  color: #2a4b58;
   margin-right: 10px;
 }
 .button-delete {
-  color: rgb(224, 18, 18);
+  color: rgb(247, 10, 10);
 }
 @media screen and (max-width: 667px) {
   .task_container {
